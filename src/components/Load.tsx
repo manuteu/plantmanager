@@ -4,6 +4,7 @@ import LottieView from 'lottie-react-native';
 
 import loadAnimation from '../assets/load.json';
 
+// Componente de pré carregamento enquanto busca da api
 export function Load() {
   return (
     <View style={styles.container}>

@@ -5,9 +5,10 @@ import { RectButton, RectButtonProps } from 'react-native-gesture-handler';
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 
+// Trazendo todas propriedades do RectButton pra função EnviromentButton
 interface EnviromentButtonProps extends RectButtonProps {
   title: string;
-  active?: boolean;
+  active?: boolean; // ?: significa que não é necessário atribuir valor
 }
 
 export function EnviromentButton({

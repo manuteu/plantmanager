@@ -10,6 +10,8 @@ import AsyncStorage from '@react-native-async-storage/async-storage';
 export function Header() {
   const [userName, setUserName] = useState<string>();
 
+  //Pegando o nome salvo pelo usuário em @plantmanager:user
+  //e renderizando no Header
   useEffect(() => {
     async function loadStorageUserName() {
       const user = await AsyncStorage.getItem('@plantmanager:user');

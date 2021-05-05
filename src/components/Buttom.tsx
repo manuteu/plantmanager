@@ -1,3 +1,4 @@
+//Transformando Button em um Componente
 import React from 'react';
 import {
   StyleSheet,
@@ -9,6 +10,7 @@ import {
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 
+// Trazendo todas propriedades do TouchableOpacity pra função Button
 interface ButtonProps extends TouchableOpacityProps {
   title: string;
 }

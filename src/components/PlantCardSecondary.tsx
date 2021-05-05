@@ -2,12 +2,13 @@ import React from 'react';
 import { Animated, StyleSheet, Text, View } from 'react-native';
 import { RectButton, RectButtonProps } from 'react-native-gesture-handler';
 import { SvgFromUri } from 'react-native-svg';
-import Swipeable from 'react-native-gesture-handler/Swipeable';
+import Swipeable from 'react-native-gesture-handler/Swipeable'; // Biblioteca de arrastar pro lado
 
 import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 import { Feather } from '@expo/vector-icons';
 
+// Trazendo todas propriedades do RectButton pra constante PlantCardSecondary
 interface PlantProps extends RectButtonProps {
   data: {
     name: string;

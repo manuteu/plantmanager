@@ -5,6 +5,7 @@ import colors from '../styles/colors';
 import fonts from '../styles/fonts';
 import { SvgFromUri } from 'react-native-svg';
 
+// Trazendo todas propriedades do RectButton pra constante PlantCardPrimary
 interface PlantProps extends RectButtonProps {
   data: {
     name: string;
