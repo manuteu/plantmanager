@@ -28,6 +28,7 @@
   <img
     src="https://ibb.co/qgrg2Mj"
     alt="deletar modal"
-    
+    height="40%"
+    width="40%"
   />
 </div>
