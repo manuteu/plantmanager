@@ -3,32 +3,28 @@
 ## Projeto da trilha de React Native da NLW#5 da Rocketseat
 
 <div>
-  <img src="https://ibb.co/Nnq5CnB" alt="splash" height="40%" width="40%" />
-  <img src="https://ibb.co/7J4fgQz" alt="bem vindo" height="40%" width="40%" />
+  <img src="https://i.ibb.co/gdyjVzM/Splash.png" alt="splash" height="20%" width="20%" />
+  <img src="https://i.ibb.co/wQTZZL3/Bem-vindo.png" alt="bem vindo" height="20%" width="20%" />
   <img
-    src="https://ibb.co/cg0BsyC"
+    src="https://i.ibb.co/vqDQ6Ns/Confirmar-nome-preenchido.png"
     alt="confirmacao"
-    height="40%"
-    width="40%"
+    height="20%" width="20%"
   />
   <img
-    src="https://ibb.co/jk0j8Fd"
+    src="https://i.ibb.co/1dHbKTN/Escolha-uma-planta.png"
     alt="escolha uma planta"
-    height="40%"
-    width="40%"
+    height="20%" width="20%"
   />
-  <img src="https://ibb.co/ZB8zY5Y" alt="planta" height="40%" width="40%" />
+  <img src="https://i.ibb.co/L8qZmhw/Planta.png" alt="planta" height="20%" width="20%"/>
   <img
-    src="https://ibb.co/qjxH03W"
+    src="https://i.ibb.co/S56qsLp/Minhas-plantas.png"
     alt="minhas plantas"
-    height="40%"
-    width="40%"
+    height="20%" width="20%"
   />
-  <img src="https://ibb.co/mFzGG4b" alt="deletar" height="40%" width="40%" />
+  <img src="https://i.ibb.co/gz861XP/deletar.png" alt="deletar" height="20%" width="20%"/>
   <img
-    src="https://ibb.co/qgrg2Mj"
+    src="https://i.ibb.co/vkssYgJ/Deletar.png"
     alt="deletar modal"
-    height="40%"
-    width="40%"
+    height="20%" width="20%"
   />
 </div>
